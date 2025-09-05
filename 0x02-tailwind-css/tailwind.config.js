@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./1-index.html", "./src/**/*.{html,js}"],
+  content: ["3-nav_index.html", "./src/**/*.{html,js}"],
   theme: { extend: {} },
   plugins: [],
 }

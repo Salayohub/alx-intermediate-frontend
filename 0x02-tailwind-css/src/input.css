@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* ✅ your custom CSS goes *after* Tailwind imports */
-main {
+/main {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
