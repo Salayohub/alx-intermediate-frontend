@@ -1,0 +1,12 @@
+1. Navigated to the alx-intermediate-frontend repository:
+   $ cd alx-intermediate-frontend
+
+2. Created a new directory called 0x03-sass_scss:
+   $ mkdir 0x03-sass_scss
+   $ cd 0x03-sass_scss
+
+3. Installed Sass using npm:
+   $ npm install sass
+
+4. Verified the installation:
+   $ npx sass --version
